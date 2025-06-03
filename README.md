@@ -10,3 +10,20 @@ Welcome to **Nexus**, a clean and modern landing page built with HTML and CSS. D
 - 💡 Ideal for showcasing digital products, SaaS platforms, or developer tools
 - 🧩 Easy to extend with JavaScript or frameworks of your choice
 
+
+💡 Inspiration
+
+Nexus was created to provide a simple, no-frills starting point for developers, makers, and startups to showcase their tools with clarity and style.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+🙌 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
+
+---
+
+Made with ❤️ by Tonysensei0
